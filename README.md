@@ -17,4 +17,4 @@ Coisas que aprendo no dia a dia sobre programação.
 - [LIFO](https://github.com/Tashima42/til/blob/master/estrutura-de-dados/lifo.md)
 
 ### Gem
-- [Install](https://github.com/Tashima42/blob/master/gem/install.md)
+- [Install](https://github.com/Tashima42/til/blob/master/gem/install.md)
