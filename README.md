@@ -10,10 +10,11 @@ Coisas que aprendo no dia a dia sobre programação.
 ***
 
 ### Javascript
-- [1]()
+- [#](#)
 
 ### Estrutura de dados
-- [FIFO]()
-- [LIFO]()
+- [FIFO](https://github.com/Tashima42/til/blob/master/estrutura-de-dados/fifo.md)
+- [LIFO](https://github.com/Tashima42/til/blob/master/estrutura-de-dados/lifo.md)
 
 ### Gem
+- [Install](https://github.com/Tashima42/blob/master/gem/install.md)
