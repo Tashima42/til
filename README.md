@@ -10,7 +10,7 @@ Coisas que aprendo no dia a dia sobre programação.
 ***
 
 ### Javascript
-- [#](#)
+- [Operadores](https://github.com/Tashima42/til/blob/master/javascript/operadores.md)
 
 ### Estrutura de dados
 - [FIFO](https://github.com/Tashima42/til/blob/master/estrutura-de-dados/fifo.md)
