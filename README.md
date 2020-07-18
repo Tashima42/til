@@ -12,6 +12,7 @@ Coisas que aprendo no dia a dia sobre programação.
 ### Javascript
 - [Operadores](https://github.com/Tashima42/til/blob/master/javascript/operadores.md)
 - [Contexto Léxico](https://github.com/Tashima42/til/blob/master/javascript/contexto-lexico.md)
+- [Null](https://github.com/Tashima42/til/blob/master/javascript/null.md)
 
 ### Estrutura de dados
 - [FIFO](https://github.com/Tashima42/til/blob/master/estrutura-de-dados/fifo.md)
