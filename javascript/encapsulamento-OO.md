@@ -1,0 +1,2 @@
+# Encapsulamento em Orientação a Objeto
+Um código feito orientado a objeto comunmente é dividido em "blocos", ou capsulás que tem diferentes funções. Um bom encapsulamento permite que alterações e manutenção seja feita mais facilmente, pois divide os processos internos e a interface de uma capsulá. Ou seja, os dados são enviados sempre da mesma forma pela interface, mas a forma como aqueles dados são manipulados pode ser alterada livremente, desde que a interface seja mantida.
