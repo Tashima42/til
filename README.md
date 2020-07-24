@@ -19,7 +19,7 @@ Coisas que aprendo no dia a dia sobre programação.
 - [Variáveis Privadas](https://github.com/Tashima42/til/blob/master/javascript/variaveis-privadas.md)
 - [for In](https://github.com/Tashima42/til/blob/master/javascript/for-in.md)
 - [for Of](https://github.com/Tashima42/til/blob/master/javascript/for-of.md)
-
+- [Template String](https://github.com/Tashima42/til/blob/master/javascript/template-string.md)
 
 ### Estrutura de dados
 - [FIFO](https://github.com/Tashima42/til/blob/master/estrutura-de-dados/fifo.md)
