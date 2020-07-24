@@ -17,6 +17,8 @@ Coisas que aprendo no dia a dia sobre programação.
 - [Abstração - OO](https://github.com/Tashima42/til/blob/master/javascript/abstracao-OO.md)
 - [Encapsulamento - OO](https://github.com/Tashima42/til/blob/master/javascript/encapsulamento-OO.md)
 - [Variáveis Privadas](https://github.com/Tashima42/til/blob/master/javascript/variaveis-privadas.md)
+- [for In](https://github.com/Tashima42/til/blob/master/javascript/for-in.md)
+- [for Of](https://github.com/Tashima42/til/blob/master/javascript/for-of.md)
 
 
 ### Estrutura de dados
