@@ -16,7 +16,7 @@ Coisas que aprendo no dia a dia sobre programação.
 - [Valor Padrão de uma função](https://github.com/Tashima42/til/blob/master/javascript/valor-padrao-funcao.md)
 - [Abstração - OO](https://github.com/Tashima42/til/blob/master/javascript/abstracao-OO.md)
 - [Encapsulamento - OO](https://github.com/Tashima42/til/blob/master/javascript/encapsulamento-OO.md)
-
+- [Variáveis Privadas](https://github.com/Tashima42/til/blob/master/javascript/variaveis-privadas.md)
 
 
 ### Estrutura de dados
