@@ -21,6 +21,7 @@ Coisas que aprendo no dia a dia sobre programação.
 - [for Of](https://github.com/Tashima42/til/blob/master/javascript/for-of.md)
 - [Template String](https://github.com/Tashima42/til/blob/master/javascript/template-string.md)
 - [Pop](https://github.com/Tashima42/til/blob/master/javascript/pop.md)
+- [getElementsByClassName](https://github.com/Tashima42/til/blob/master/javascript/getElementsByClassName.md)
 
 ### Estrutura de dados
 - [FIFO](https://github.com/Tashima42/til/blob/master/estrutura-de-dados/fifo.md)
