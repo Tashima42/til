@@ -25,7 +25,7 @@ Coisas que aprendo no dia a dia sobre programação.
 
 ### MongoDB
 - [Show dbs](https://github.com/Tashima42/til/blob/master/mongoDB/showdbs.md)
-
+- [Show collections](https://github.com/Tashima42/til/blob/master/mongoDB/showcollections.md)
 
 ### Estrutura de dados
 - [FIFO](https://github.com/Tashima42/til/blob/master/estrutura-de-dados/fifo.md)
