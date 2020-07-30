@@ -21,6 +21,7 @@ Coisas que aprendo no dia a dia sobre programação.
 - [for Of](https://github.com/Tashima42/til/blob/master/javascript/for-of.md)
 - [Template String](https://github.com/Tashima42/til/blob/master/javascript/template-string.md)
 - [Pop](https://github.com/Tashima42/til/blob/master/javascript/pop.md)
+- [getElementsByClassName](https://github.com/Tashima42/til/blob/master/javascript/getElementsByClassName.md)
 
 ### MongoDB
 - [Show dbs](https://github.com/Tashima42/til/blob/master/mongoDB/showdbs.md)
@@ -32,3 +33,7 @@ Coisas que aprendo no dia a dia sobre programação.
 
 ### Gem
 - [Install](https://github.com/Tashima42/til/blob/master/gem/install.md)
+
+### React
+- [React](https://github.com/Tashima42/til/blob/master/react/react.md)
+- [Create project](https://github.com/Tashima42/til/blob/master/react/create-project.md)
