@@ -27,6 +27,9 @@ Coisas que aprendo no dia a dia sobre programação.
 - [Show dbs](https://github.com/Tashima42/til/blob/master/mongoDB/showdbs.md)
 - [Show collections](https://github.com/Tashima42/til/blob/master/mongoDB/showcollections.md)
 
+### Docker
+- [run](https://github.com/Tashima42/til/blob/master/docker/run.md)
+
 ### Estrutura de dados
 - [FIFO](https://github.com/Tashima42/til/blob/master/estrutura-de-dados/fifo.md)
 - [LIFO](https://github.com/Tashima42/til/blob/master/estrutura-de-dados/lifo.md)
