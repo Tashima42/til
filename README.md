@@ -3,10 +3,15 @@ Coisas que aprendo no dia a dia sobre programação.
 
 *** 
 
-## Categorias
+## Categories
 - [Javascript](#javascript)  
+- [MongoDB](#mongodb)
+- [Docker](#docker)
 - [Estrutura de dados](#estrutura-de-dados)
 - [Gem](#gem)
+- [React](#react)
+- [Vue](#vue)
+- [Yarn](#yarn)
 ***
 
 ### Javascript
