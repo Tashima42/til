@@ -49,6 +49,7 @@ Coisas que aprendo no dia a dia sobre programação.
 ### Vue
 - [Vue](https://github.com/Tashima42/til/blob/master/vue/vue.md)
 - [Create project](https://github.com/Tashima42/til/blob/master/vue/create-project.md)
+- [Vue Router](https://github.com/Tashima42/til/blob/master/vue/vue-router.md)
 
 ### Yarn
 - [Yarn](https://github.com/Tashima42/til/blob/master/yarn/yarn.md)
