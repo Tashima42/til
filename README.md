@@ -57,3 +57,6 @@ Coisas que aprendo no dia a dia sobre programação.
 - [yarn add dev](https://github.com/Tashima42/til/blob/master/yarn/yarn-add--dev.md)
 - [yarn global add](https://github.com/Tashima42/til/blob/master/yarn/yarn-global-add.md)
 - [yarn init](https://github.com/Tashima42/til/blob/master/yarn/yarn-init.md)
+
+### R
+- [R](https://github.com/Tashima42/til/blob/master/r/r.md)
