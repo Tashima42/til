@@ -60,3 +60,5 @@ Coisas que aprendo no dia a dia sobre programação.
 
 ### R
 - [R](https://github.com/Tashima42/til/blob/master/r/r.md)
+- [Mean](https://github.com/Tashima42/til/blob/master/r/mean.md)
+- [Tapply](https://github.com/Tashima42/til/blob/master/r/tapply.md)
